@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"mx.unam.fi.poo.g1.p9y10_T","c":"CadenaException","l":"CadenaException(String)","u":"%3Cinit%3E(java.lang.String)"}];updateSearchResults();
